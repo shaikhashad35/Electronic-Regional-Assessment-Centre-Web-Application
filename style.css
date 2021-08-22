@@ -1,0 +1,91 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	background-image: url(600.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+}
+
+
+
+
+
+.btn
+{
+	font-size: 18px;
+	letter-spacing: 2px;
+	margin:5px;
+	padding: 7px 10px;
+	text-decoration: none;
+	border: 1px solid #fff;
+	
+}
+
+.btn1
+{
+	 
+	background: transparent;
+	transition: .4s;
+	color: #000;
+	
+}
+
+
+.btn2
+{
+	color: #000;
+}
+
+.btn2
+{
+	
+	background: transparent;
+	color: #000;
+	transition: .4s;
+	
+}
+
+h1 {
+text-align: center;
+height: 100px;
+}
+
+.header {
+	padding: 20px;
+	position: ststic;
+	text-align: right;
+	text-decoration: none;
+}
+
+.kaleja {
+	float: right;
+	position: ststic;
+	padding-right: 10px;
+}
+
+.jigra h1 {
+text-align: center;
+font-size: 50px;
+}
+
+.jigra {
+	text-align: center;
+	position: ststic;
+}
+
+
+
+
+
+
+
+
+
+
+
